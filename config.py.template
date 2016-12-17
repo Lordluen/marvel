@@ -1,0 +1,7 @@
+import base_config
+
+# copy config.py.template to config.py
+# place your publik marvel api key and private marvel api key here.
+
+PUB_KEY = '<public_api_key_goes_here>'
+PRIV_KEY = '<private_api_key_goes_here>'
